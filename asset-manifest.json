@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ntf-landing/static/css/main.9772f546.css",
+    "main.css": "/ntf-landing/static/css/main.f0b13a23.css",
     "main.js": "/ntf-landing/static/js/main.5b4f5daf.js",
     "static/media/ecos.png": "/ntf-landing/static/media/ecos.c34f4d11bc2f902b568c.png",
     "static/media/card-img.png": "/ntf-landing/static/media/card-img.eeab234ff3e009667390.png",
@@ -15,11 +15,11 @@
     "static/media/ellipse.svg": "/ntf-landing/static/media/ellipse.d5166225851d7f9f2fd7ce0efa7c25c6.svg",
     "static/media/lumeta.svg": "/ntf-landing/static/media/lumeta.14078a26d2db621e3dcb0fdae5226510.svg",
     "index.html": "/ntf-landing/index.html",
-    "main.9772f546.css.map": "/ntf-landing/static/css/main.9772f546.css.map",
+    "main.f0b13a23.css.map": "/ntf-landing/static/css/main.f0b13a23.css.map",
     "main.5b4f5daf.js.map": "/ntf-landing/static/js/main.5b4f5daf.js.map"
   },
   "entrypoints": [
-    "static/css/main.9772f546.css",
+    "static/css/main.f0b13a23.css",
     "static/js/main.5b4f5daf.js"
   ]
 }
