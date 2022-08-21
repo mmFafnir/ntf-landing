@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ntf-landing/static/css/main.6cf6e781.css",
-    "main.js": "/ntf-landing/static/js/main.9055b66d.js",
+    "main.css": "/ntf-landing/static/css/main.63447533.css",
+    "main.js": "/ntf-landing/static/js/main.5b4f5daf.js",
     "static/media/ecos.png": "/ntf-landing/static/media/ecos.c34f4d11bc2f902b568c.png",
     "static/media/card-img.png": "/ntf-landing/static/media/card-img.eeab234ff3e009667390.png",
     "static/media/Montserrat-Regular.woff": "/ntf-landing/static/media/Montserrat-Regular.5314c01bd895ca8b2c15.woff",
@@ -15,11 +15,11 @@
     "static/media/ellipse.svg": "/ntf-landing/static/media/ellipse.d5166225851d7f9f2fd7ce0efa7c25c6.svg",
     "static/media/lumeta.svg": "/ntf-landing/static/media/lumeta.14078a26d2db621e3dcb0fdae5226510.svg",
     "index.html": "/ntf-landing/index.html",
-    "main.6cf6e781.css.map": "/ntf-landing/static/css/main.6cf6e781.css.map",
-    "main.9055b66d.js.map": "/ntf-landing/static/js/main.9055b66d.js.map"
+    "main.63447533.css.map": "/ntf-landing/static/css/main.63447533.css.map",
+    "main.5b4f5daf.js.map": "/ntf-landing/static/js/main.5b4f5daf.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cf6e781.css",
-    "static/js/main.9055b66d.js"
+    "static/css/main.63447533.css",
+    "static/js/main.5b4f5daf.js"
   ]
 }
